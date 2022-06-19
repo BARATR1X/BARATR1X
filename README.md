@@ -3,7 +3,7 @@
 
 
 - 🔭 Hoje trabalho como auxiliar de faturamento a 4 anos e 2 meses na empresa Guepardo 
-- 🌱 Atualmente estou aprendendo HTML e CSS
+- 🌱 Atualmente estou aprendendo JavaScript e React
 - 📫 Meu e-mail para me contatar: baratrix1@hotmail.com
 - 😄 Pronouns: ele/dele
 
